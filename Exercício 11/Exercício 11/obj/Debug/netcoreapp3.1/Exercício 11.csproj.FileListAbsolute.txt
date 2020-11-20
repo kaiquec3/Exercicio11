@@ -1,0 +1,13 @@
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.exe
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.deps.json
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.runtimeconfig.json
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.runtimeconfig.dev.json
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.dll
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\bin\Debug\netcoreapp3.1\Exercício 11.pdb
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.csprojAssemblyReference.cache
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.AssemblyInfoInputs.cache
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.AssemblyInfo.cs
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.csproj.CoreCompileInputs.cache
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.dll
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.pdb
+C:\Users\altas\Downloads\Projetos PRCA2\Exercício 11\Exercício 11\obj\Debug\netcoreapp3.1\Exercício 11.genruntimeconfig.cache
